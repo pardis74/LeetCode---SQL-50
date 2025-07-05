@@ -50,6 +50,7 @@ Low Salary: Account 2.
 Average Salary: No accounts.
 High Salary: Accounts 3, 6, and 8.
 
+# Write your MySQL query statement below
 WITH categorized AS (
     SELECT
         CASE
